@@ -1,3 +1,5 @@
+# By Artem Eluzium, 2019/20. Use free with MIT License.
+# Telegram: @ArtemEluzium
 import csv
 import random
 import shutil
